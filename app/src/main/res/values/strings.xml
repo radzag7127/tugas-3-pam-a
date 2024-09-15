@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas3pama</string>
+    <string name="hitung">Hitung</string>
+    <string name="hint_input1">Enter first number</string>
+    <string name="hint_input2">Enter second number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
